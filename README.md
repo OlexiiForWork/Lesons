@@ -9,6 +9,7 @@
 ## Структура
 
 - [Lessons1](./Lessons1/README.md) — Урок 1. Установка базовых программ для Windows (KeePassXC, Git, Podman, Visual Studio Code, .NET)
+- [Lessons2](./Lessons2/README.md) — Урок 2. Клонирование репозитория ONIX
 
 ## Технологии и инструменты
 
